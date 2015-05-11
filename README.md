@@ -15,8 +15,7 @@ Set in an underground complex, home to her experimental test subjects. Eris exec
 4.	Emotion
 
 ##Control:
-
-	Code-X requires Samsung Gear VR and touch pad controller. 
+Code-X requires Samsung Gear VR and touch pad controller. 
 
 ##Mechanics:
 
