@@ -36,8 +36,6 @@ The significant weaknesses far outweigh the benefits in real world scenarios. Co
 This is a two-player game. Both players must download our “apk” and install on Galaxy Note 4.
 
 Upon starting, follow the UI first before placing in VR headset:
-
- 
  
 Player 1 should choose “Start Server”. Player 2 should choose “join escape”. Following the pairing process, both players will join the game and be able to see one another at base. 
 
@@ -50,10 +48,15 @@ The functions of the touch pad controller are illustrated below:
 ##Techniques:
 
 •	Photon Unity 3D Networking Frameworks SDKs to implement our multiplayer function.  
+
 •	Serial work are completed in Photon in order to make multiplayers have the same view in the game.  
+
 •	Design Enemy AI system to make the enemies work more intelligently.  
+
 •	Implement holographic effects to make the scene meet our game theme (Sci-Fi).  
+
 •	Use No Touch GUI for VR to give players more interactive ways of manoeuvring within the game.  
+
 •	Orchestrated all music within the game to enhance immersion.   
 
 
