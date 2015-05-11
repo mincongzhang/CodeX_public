@@ -1,5 +1,5 @@
 #Code - X 
-– An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
+An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
 
 Prologue 
 
