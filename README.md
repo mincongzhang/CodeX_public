@@ -7,15 +7,10 @@ By 2050, artificial intelligence far exceeds mankind's. With great intent, the c
 
 In an unexpected succession of events, Eris’ answer is to sift through humanity and do away those who hold her from utopia.
 
-Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
-
-1.	Physical agility
-2.	Mind game
-3.	Cooperation
 4.	Emotion
 
 ##Control:
-Code-X requires Samsung Gear VR and touch pad controller. 
+Code-X requires Samsung Gear VR and game pad controller. 
 
 ##Mechanics:
 
@@ -39,9 +34,9 @@ Upon starting, follow the UI first before placing in VR headset:
  
 Player 1 should choose “Start Server”. Player 2 should choose “join escape”. Following the pairing process, both players will join the game and be able to see one another at base. 
 
-Then, you can place your Galaxy Note 4 in Gear VR. Use your touch pad controller to experience the game.
+Then, you can place your Galaxy Note 4 in Gear VR. Use your game pad controller to experience the game.
 
-The functions of the touch pad controller are illustrated below:
+The functions of the game pad controller are illustrated below:
  
  
 
