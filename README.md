@@ -41,29 +41,32 @@ Code-X requires Samsung Gear VR and game pad controller.
 
 ##Mechanics:
 
-The game tests their ability to follow tasks, find clues (in true Sherlock style) and cooperate together in a whole new level to escape through the next level. There are twists and turns within the storyline in an attempt to take the players off course and loose hope. Both will require their mental agility whilst able to fight off what’s around the corner. Failure for both players to survive will result in the termination of the game. All in all designed to make this game more of a thrilling and unique experience. 
+The game tests each player’s ability to follow tasks, find clues and cooperate together in a new effective way to progress to the next level. There are twists and turns within the storyline in an attempt to take the players off course and lose hope. Both will require their mental agility to be able to fight off what’s around the corner. Failure for both players to survive will result in the termination of the game. All in all designed to make this game a thrilling and unique experience. 
 
 ##Innovation:
 
-The game design is centred upon real world Escape Room games, based upon attractive or popular themes. To escape will require players to solve puzzles in true Sherlock style. 
+The game design is centred around real world Escape Room games, based upon attractive or popular themes. To escape, players will need to solve various puzzles. 
 
-The significant weaknesses far outweigh the benefits in real world scenarios. Cost is the biggest factor to failure. Second, few locations to play. Third, the types of puzzles are limited and at times boring. All the weaknesses can be resolved and enhanced in Gear VR. To experience the impossible in the real world and to achieve a far superior and immersive feel. 
+A few limitations in the real world scenarios (such as, cost, small range of locations, unimaginative puzzles) can be overcome in VR setting. The VR Gear can help experience the impossible in the real world and achieve a far superior and immersive feel. 
 
 “Code-X” is the first theme of a series, designed for our VR escape room game.
 
 
 
+
 ##Getting started:
 
-<img src="https://github.com/mincongzhang/CodeX_public/raw/master/server_UI.jpg" alt="Server_UI" title="Server_UI" height="400"/>
+
 
 This is a two-player game. Both players must download our “apk” and install on Galaxy Note 4.
 
 Upon starting, follow the UI first before placing in VR headset:
  
+<img src="https://github.com/mincongzhang/CodeX_public/raw/master/server_UI.jpg" alt="Server_UI" title="Server_UI" height="400"/>
+ 
 Player 1 should choose “Start Server”. Player 2 should choose “join escape”. Following the pairing process, both players will join the game and be able to see one another at base. 
 
-Then, you can place your Galaxy Note 4 in Gear VR. Use your game pad controller to experience the game.
+Then, you can place your Galaxy Note 4 in Gear VR. Use your touch pad controller to navigate through the game.
 
 The functions of the game pad controller are illustrated below:
  
