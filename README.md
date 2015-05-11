@@ -12,27 +12,27 @@ Set in an underground complex, home to her experimental test subjects. Eris exec
 
 #####1.Physical agility (Initial Room, Zombie Room)
 
-Familiarise with environment and resolve immediate issues at hand. Find methods of defense and defend each other from oncoming zombie stacks. 
+Players must fend off waves of bloodthirsty zombies by finding the hidden tools and either plow through the monstrosities or run past them to complete the stage. 
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/1.jpg" alt="1" title="1" height="400"/>
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="2" title="2" height="400"/>
 
 #####2.Mind game (Maze Room)
 
-Players must negotiate across a futuristic maze room with intricate arrangement. Clues must be found for gaining key entry. Both players must think beyond conventional ideas. 
+Players must venture through a maze room with intricate arrangement. Clues are scattered around the maze and must be found in order to gain access to the next room. Both players must think beyond conventional ideas. 
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/3.jpg" alt="3" title="3" height="400"/>
 
 
 #####3.Cooperation (Laser and Gas Room)
 
-Deliberate intentions to separate players lead them into pre assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed and motional lasers in order to allow player two to commence. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before poisoned by gas. 
+Deliberate intentions to separate players lead them into pre-assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed motional lasers in order to allow player 2 to proceed. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before being exposed to poisonous gas. 
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/4.jpg" alt="4" title="4" height="400"/>
 
 #####4.Emotion (Final Escape)
 
-The final stage tests the players mind. To judge their willingness to sacrifice for one another as Eris announce only one can survive. The complexions come when more failed test subjects are released (zombies) and the decision of life and death is to be made instinctively. The conclusion of this epic game sees a final twist in the storyline. Who will be the one to survive? 
+The final stage tests each player’s mental strength and determination to judge their willingness to sacrifice for one another as Eris announces that only one can survive. The final struggle is intensified when a wave of zombies is released, and the decision of life and death is to be made instinctively. The conclusion of this game of trials sees a final twist in the storyline. Who will be the one to survive? 
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/5.jpg" alt="5" title="5" height="400"/>
 
