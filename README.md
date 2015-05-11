@@ -3,10 +3,16 @@ An action packed two-player VR game. Survive with your companion, maintain your 
 
 ##Prologue 
 
+
 By 2050, artificial intelligence far exceeds mankind's. With great intent, the creators of Eris, the worlds most advanced AI system was programmed to resolve what humanity continues to struggle with, famine, war, disease and inequality.
 
 In an unexpected succession of events, Eris’ answer is to sift through humanity and do away those who hold her from utopia.
 
+Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
+
+1.	Physical agility
+2.	Mind game
+3.	Cooperation
 4.	Emotion
 
 ##Control:
