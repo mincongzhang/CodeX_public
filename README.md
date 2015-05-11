@@ -1,7 +1,7 @@
 #Code - X 
 An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
 
-http://vrjam.challengepost.com/submissions/36953-code-x
+http://vrjam.challengepost.com/submissions/36953-code-x  
 https://www.youtube.com/watch?v=aaNRMh3VMtg
 
 ##Prologue 
