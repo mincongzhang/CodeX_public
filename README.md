@@ -46,7 +46,7 @@ Then, you can place your Galaxy Note 4 in Gear VR. Use your game pad controller 
 
 The functions of the game pad controller are illustrated below:
  
- 
+ <img src="https://github.com/mincongzhang/CodeX_public/raw/master/game_pad.png" alt="Server_UI" title="Server_UI" height="400"/>
 
 ##Techniques:
 
