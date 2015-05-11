@@ -79,7 +79,7 @@ The functions of the game pad controller are illustrated below:
 
 •	Implement holographic effects to make the scene meet our game theme (Sci-Fi).  
 
-•	Use No Touch GUI for VR to give players more interactive ways of manoeuvring within the game.  
+•	Use ray cast mechanism in unity to make a interactive ways of manoeuvring within the game.  
 
 •	Orchestrated all music within the game to enhance immersion.   
 
