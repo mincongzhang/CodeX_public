@@ -1,7 +1,7 @@
 #Code - X 
 An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
 
-Prologue 
+##Prologue 
 
 By 2050, artificial intelligence far exceeds mankind's. With great intent, the creators of Eris, the worlds most advanced AI system was programmed to resolve what humanity continues to struggle with, famine, war, disease and inequality.
 
@@ -14,15 +14,15 @@ Set in an underground complex, home to her experimental test subjects. Eris exec
 3.	Cooperation
 4.	Emotion
 
-Control:
+##Control:
 
 	Code-X requires Samsung Gear VR and touch pad controller. 
 
-Mechanics:
+##Mechanics:
 
 The game tests their ability to follow tasks, find clues (in true Sherlock style) and cooperate together in a whole new level to escape through the next level. There are twists and turns within the storyline in an attempt to take the players off course and loose hope. Both will require their mental agility whilst able to fight off what’s around the corner. Failure for both players to survive will result in the termination of the game. All in all designed to make this game more of a thrilling and unique experience. 
 
-Innovation:
+##Innovation:
 
 The game design is centred upon real world Escape Room games, based upon attractive or popular themes. To escape will require players to solve puzzles in true Sherlock style. 
 
@@ -32,7 +32,7 @@ The significant weaknesses far outweigh the benefits in real world scenarios. Co
 
 
 
-Getting started:
+##Getting started:
 
 This is a two-player game. Both players must download our “apk” and install on Galaxy Note 4.
 
@@ -48,7 +48,7 @@ The functions of the touch pad controller are illustrated below:
  
  
 
-Techniques:
+##Techniques:
 
 •	Photon Unity 3D Networking Frameworks SDKs to implement our multiplayer function.
 •	Serial work are completed in Photon in order to make multiplayers have the same view in the game.
