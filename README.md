@@ -10,30 +10,31 @@ In an unexpected succession of events, Eris’ answer is to sift through humanit
 
 Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
 
-#####1.Physical agility
+#####1.Physical agility (Initial Room, Zombie Room)
 
 Familiarise with environment and resolve immediate issues at hand. Find methods of defense and defend each other from oncoming zombie stacks. 
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/1.jpg" alt="1" title="1" height="400"/>
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="2" title="2" height="400"/>
 
-#####2.Mind game
+#####2.Mind game (Maze Room)
 
 Players must negotiate across a futuristic maze room with intricate arrangement. Clues must be found for gaining key entry. Both players must think beyond conventional ideas. 
 
-<img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="3" title="3" height="400"/>
+<img src="https://github.com/mincongzhang/CodeX_public/raw/master/3.jpg" alt="3" title="3" height="400"/>
 
-#####3.Cooperation
+
+#####3.Cooperation (Laser and Gas Room)
 
 Deliberate intentions to separate players lead them into pre assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed and motional lasers in order to allow player two to commence. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before poisoned by gas. 
 
-<img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="4" title="4" height="400"/>
+<img src="https://github.com/mincongzhang/CodeX_public/raw/master/4.jpg" alt="4" title="4" height="400"/>
 
-#####4.Emotion
+#####4.Emotion (Final Escape)
 
 The final stage tests the players mind. To judge their willingness to sacrifice for one another as Eris announce only one can survive. The complexions come when more failed test subjects are released (zombies) and the decision of life and death is to be made instinctively. The conclusion of this epic game sees a final twist in the storyline. Who will be the one to survive? 
 
-<img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="5" title="5" height="400"/>
+<img src="https://github.com/mincongzhang/CodeX_public/raw/master/5.jpg" alt="5" title="5" height="400"/>
 
 ##Control:
 Code-X requires Samsung Gear VR and game pad controller. 
@@ -72,7 +73,7 @@ The functions of the game pad controller are illustrated below:
 
 •	Photon Unity 3D Networking Frameworks SDKs to implement our multiplayer function.  
 
-•	Serial work are completed in Photon in order to make multiplayers have the same view in the game.  
+• Serialized views in Photon are implemented in order to sync multiplayers' action and scene objects.
 
 •	Design Enemy AI system to make the enemies work more intelligently.  
 
