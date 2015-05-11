@@ -34,7 +34,7 @@ The significant weaknesses far outweigh the benefits in real world scenarios. Co
 
 ##Getting started:
 
-<img src="https://github.com/mincongzhang/CodeX_public/raw/master/server_UI.png" alt="Server_UI" title="Server_UI" height="400"/>
+<img src="https://github.com/mincongzhang/CodeX_public/raw/master/server_UI.jpg" alt="Server_UI" title="Server_UI" height="400"/>
 
 This is a two-player game. Both players must download our “apk” and install on Galaxy Note 4.
 
