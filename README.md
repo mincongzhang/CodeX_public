@@ -10,10 +10,22 @@ In an unexpected succession of events, Eris’ answer is to sift through humanit
 
 Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
 
-1.	Physical agility
-2.	Mind game
-3.	Cooperation
-4.	Emotion
+1. Physical agility
+
+Familiarise with environment and resolve immediate issues at hand. Find methods of defense and defend each other from oncoming zombie stacks. 
+
+2. Mind game
+
+Players must negotiate across a futuristic maze room with intricate arrangement. Clues must be found for gaining key entry. Both players must think beyond conventional ideas. 
+
+3. Cooperation
+
+Deliberate intentions to separate players lead them into pre assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed and motional lasers in order to allow player two to commence. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before poisoned by gas. 
+
+4. Emotion
+
+The final stage tests the players mind. To judge their willingness to sacrifice for one another as Eris announce only one can survive. The complexions come when more failed test subjects are released (zombies) and the decision of life and death is to be made instinctively. The conclusion of this epic game sees a final twist in the storyline. Who will be the one to survive? 
+
 
 ##Control:
 Code-X requires Samsung Gear VR and game pad controller. 
