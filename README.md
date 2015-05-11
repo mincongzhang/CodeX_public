@@ -83,5 +83,7 @@ The functions of the game pad controller are illustrated below:
 
 •	Orchestrated all music within the game to enhance immersion.   
 
+•	Several ways are used to recude the drawcalls to fit mobile platform, like occlusion, light mapping, and clipping planes in camera etc. 
+
 
 
