@@ -30,7 +30,7 @@ Players must fend off waves of bloodthirsty zombies by finding the hidden tools 
 Players must venture through a maze room with intricate arrangement. Clues are scattered around the maze and must be found in order to gain access to the next room. Both players must think beyond conventional ideas. 
 
 在第二关, 玩家会发现线索散落在各个房间. 拿到手电筒道具之后, 玩家需要配合手电筒和镜子发现墙上的密码, 之后输入到全息密码锁, 打开房间找到第二个"钥匙卡".
-两个玩家都拿到钥匙卡后, 需要同时给对方打开下一关的门, 才能成功通关.
+两个玩家都拿到钥匙卡后, 需要同时给同伴打开下一关的门, 才能成功通关.
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/3.jpg" alt="3" title="3" height="400"/>
 
@@ -40,15 +40,18 @@ Players must venture through a maze room with intricate arrangement. Clues are s
 
 Deliberate intentions to separate players lead them into pre-assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed motional lasers in order to allow player 2 to proceed. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before being exposed to poisonous gas. 
 
-玩家在这里会被分开到两个房间, 激光室和毒气室. 玩家在进入这两个房间后都会被锁在里面无法逃脱.
-毒气室的玩家可以观测到追踪激光生成的位置并且提醒激光室的玩家躲避. 在激光室的玩家需要同时躲避移动的激光和追踪激光, 并且在尽头打开毒气室的密码的开关. 
-毒气室密码的开关打开后, 两个
+玩家在这里会被分开到两个房间, 激光室和毒气室. 在进入这两个房间后玩家都会被锁在里面无法逃脱.
+毒气室的玩家可以观测到追踪激光生成的位置并且提醒激光室的伙伴躲避. 在激光室的玩家需要同时躲避移动的激光和追踪激光, 并且在尽头打开毒气室的密码的开关. 
+毒气室密码的开关打开后, 两个玩家要拼接两个房间提供的全息密码, 毒气室的玩家按顺序触发密码开关后, 两个玩家才能逃脱进入下一关.
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/4.jpg" alt="4" title="4" height="400"/>
 
 #####4.Emotion (Final Escape)
+最后的最后
 
 The final stage tests each player’s mental strength and determination to judge their willingness to sacrifice for one another as Eris announces that only one can survive. The final struggle is intensified when a wave of zombies is released, and the decision of life and death is to be made instinctively. The conclusion of this game of trials sees a final twist in the storyline. Who will be the one to survive? 
+
+当玩家穿过最后的尸潮后, 会发现结局仍然是二选一, 你可以牺牲自己, 让同伴逃脱, 或者说服同伴, 自己得以脱身. 但最后真正活下来的, 究竟是谁呢? 并且在最后活下来的玩家会发现, 这并不是结束, 这只是另一个开始.
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/5.jpg" alt="5" title="5" height="400"/>
 
