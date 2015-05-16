@@ -14,22 +14,35 @@ In an unexpected succession of events, Eris’ answer is to sift through humanit
 Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
 
 #####1.Physical agility (Initial Room, Zombie Room)
+初始房间, 以及第一关: 僵尸囚笼
 
 Players must fend off waves of bloodthirsty zombies by finding the hidden tools and either plow through the monstrosities or run past them to complete the stage. 
+
+两个玩家进入初始房间了解剧情后, 接下来就可以去第一个关卡探索. 
+第一关需要玩家配合开门, 拿到武器, 射杀僵尸, 并且找到关键道具之一"钥匙卡". 在射杀了一定数量的僵尸后, 才能解除警报进入下一个关卡.
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/1.jpg" alt="1" title="1" height="400"/>
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="2" title="2" height="400"/>
 
 #####2.Mind game (Maze Room)
+第二关:脑力游戏
 
 Players must venture through a maze room with intricate arrangement. Clues are scattered around the maze and must be found in order to gain access to the next room. Both players must think beyond conventional ideas. 
+
+在第二关, 玩家会发现线索散落在各个房间. 拿到手电筒道具之后, 玩家需要配合手电筒和镜子发现墙上的密码, 之后输入到全息密码锁, 打开房间找到第二个"钥匙卡".
+两个玩家都拿到钥匙卡后, 需要同时给对方打开下一关的门, 才能成功通关.
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/3.jpg" alt="3" title="3" height="400"/>
 
 
 #####3.Cooperation (Laser and Gas Room)
+合作模式(激光室/毒气室)
 
 Deliberate intentions to separate players lead them into pre-assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed motional lasers in order to allow player 2 to proceed. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before being exposed to poisonous gas. 
+
+玩家在这里会被分开到两个房间, 激光室和毒气室. 玩家在进入这两个房间后都会被锁在里面无法逃脱.
+毒气室的玩家可以观测到追踪激光生成的位置并且提醒激光室的玩家躲避. 在激光室的玩家需要同时躲避移动的激光和追踪激光, 并且在尽头打开毒气室的密码的开关. 
+毒气室密码的开关打开后, 两个
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/4.jpg" alt="4" title="4" height="400"/>
 
