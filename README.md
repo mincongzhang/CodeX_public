@@ -109,7 +109,8 @@ The functions of the game pad controller are illustrated below:
 
 
 团队:  
-伦敦大学的学生
+伦敦大学的学生  
+
 感想:  
 虚拟现实游戏的特点就是让玩家能身临其境地体验游戏, 感觉更爽,新奇,光影效果更赞;
 我们设计的游戏需要两个玩家互相配合,在紧张的游戏环境下体验互相配合的乐趣;
