@@ -108,4 +108,9 @@ The functions of the game pad controller are illustrated below:
 •	Several ways are used to recude the drawcalls to fit mobile platform, like occlusion, light mapping, and clipping planes in camera etc. 
 
 
-
+团队:
+伦敦大学的学生
+感想:
+不像一般的游戏开发, 有时候要考虑到眼镜的局限性, 以及眼镜的特性(身临其境)
+考虑3D眩晕, 光影效果, 
+移动设备运算能力,
