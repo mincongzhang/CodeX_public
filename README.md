@@ -128,7 +128,7 @@ Readme:
 3.Player 1 press "Start server" button(wait for a few second).  
 4.Player 2 press "Join server" button to join game.  
 5.Then put on the GearVR and enjoy.  
-*If the screen is flipped, touch the side of GearVR to reset.  
+*If the screen is flipped, touch the touchpad(side of GearVR) to reset.  
 
 
 Dear Organisers,
