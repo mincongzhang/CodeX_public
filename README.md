@@ -122,7 +122,7 @@ The functions of the game pad controller are illustrated below:
 但开发虚拟现实游戏的时候,也要考虑到眼镜的局限性,比如3D眩晕:开发的游戏在视角镜头的移动(玩家移动速度和镜头旋转的速度)上要做适当的控制,如果速度过快,会使得玩家有眩晕的感觉.
 而且得考虑移动设备运算能力,虽然现在的手机运算能力很高,但毕竟比不上电脑,,所以得尽可能降低运算负荷,使得移动设备上可以达到一个基本令人满意的效果(我们也花了很多时间在这上面).
 
-Readme:
+Readme:  
 1.Don't Wear the GearVR first.  
 2.Launch the apps in two devices.  
 3.Player 1 press "Start server" button(wait for a few second).  
