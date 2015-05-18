@@ -129,9 +129,9 @@ Readme:
 4.Player 2 press "Join server" button to join game.  
 5.Then put on the GearVR and enjoy.  
 *If the screen is flipped, touch the touchpad(side of GearVR) to reset.  
-*Password: 
-PuzzleRoom:O-I-P-D
-GasRoom:4-2-3-1
+*Password:  
+PuzzleRoom:O-I-P-D  
+GasRoom:4-2-3-1  
 
 Dear Organisers,
 
