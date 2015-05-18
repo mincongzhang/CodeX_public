@@ -125,7 +125,7 @@ The functions of the game pad controller are illustrated below:
 Readme:
 Don't Wear the GearVR first.
 Launch the apps in two devices.
-Player 1 press "Start server" button
+Player 1 press "Start server" button(wait for a few second)
 Player 2 press "Join server" button to join game
 Then put on the GearVR and enjoy.
 
