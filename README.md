@@ -123,12 +123,12 @@ The functions of the game pad controller are illustrated below:
 而且得考虑移动设备运算能力,虽然现在的手机运算能力很高,但毕竟比不上电脑,,所以得尽可能降低运算负荷,使得移动设备上可以达到一个基本令人满意的效果(我们也花了很多时间在这上面).
 
 Readme:
-1.Don't Wear the GearVR first.
-2.Launch the apps in two devices.
-3.Player 1 press "Start server" button(wait for a few second)
-4.Player 2 press "Join server" button to join game
-5.Then put on the GearVR and enjoy.
-*If the screen is flipped, touch the side of GearVR to reset.
+1.Don't Wear the GearVR first.  
+2.Launch the apps in two devices.  
+3.Player 1 press "Start server" button(wait for a few second).  
+4.Player 2 press "Join server" button to join game.  
+5.Then put on the GearVR and enjoy.  
+*If the screen is flipped, touch the side of GearVR to reset.  
 
 
 Dear Organisers,
