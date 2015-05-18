@@ -123,7 +123,7 @@ The functions of the game pad controller are illustrated below:
 而且得考虑移动设备运算能力,虽然现在的手机运算能力很高,但毕竟比不上电脑,,所以得尽可能降低运算负荷,使得移动设备上可以达到一个基本令人满意的效果(我们也花了很多时间在这上面).
 
 Readme:
-Don't Wear the GearVR first!
+Don't Wear the GearVR first.
 Launch the apps in two devices.
 Player 1 press "Start server" button
 Player 2 press "Join server" button to join game
@@ -137,5 +137,5 @@ We were trying to build a suitable version for the mobile platform. However, due
 
 In this verion we have to remove all the game effects. Hope you can enjoy our game.
 
-Thank you,
+Thank you,  
 EPICPI team
