@@ -1,10 +1,10 @@
-#Code - X 
+# Code - X 
 An action packed two-player VR game. Survive with your companion, maintain your humanity and escape becoming a feast among the dead.
 
 http://vrjam.challengepost.com/submissions/36953-code-x  
 https://www.youtube.com/watch?v=aaNRMh3VMtg
 
-##Prologue 
+## Prologue 
 
 
 By 2050, artificial intelligence far exceeds mankind's. With great intent, the creators of Eris, the worlds most advanced AI system was programmed to resolve what humanity continues to struggle with, famine, war, disease and inequality.
@@ -13,7 +13,7 @@ In an unexpected succession of events, Eris’ answer is to sift through humanit
 
 Set in an underground complex, home to her experimental test subjects. Eris executes her 4-stage project:
 
-#####1.Physical agility (Initial Room, Zombie Room)
+##### 1.Physical agility (Initial Room, Zombie Room)
 初始房间, 以及第一关: 僵尸囚笼
 
 Players must fend off waves of bloodthirsty zombies by finding the hidden tools and either plow through the monstrosities or run past them to complete the stage. 
@@ -24,7 +24,7 @@ Players must fend off waves of bloodthirsty zombies by finding the hidden tools 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/1.jpg" alt="1" title="1" height="400"/>
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/2.jpg" alt="2" title="2" height="400"/>
 
-#####2.Mind game (Maze Room)
+##### 2.Mind game (Maze Room)
 第二关:脑力游戏
 
 Players must venture through a maze room with intricate arrangement. Clues are scattered around the maze and must be found in order to gain access to the next room. Both players must think beyond conventional ideas. 
@@ -35,7 +35,7 @@ Players must venture through a maze room with intricate arrangement. Clues are s
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/3.jpg" alt="3" title="3" height="400"/>
 
 
-#####3.Cooperation (Laser and Gas Room)
+##### 3.Cooperation (Laser and Gas Room)
 合作模式(激光室/毒气室)
 
 Deliberate intentions to separate players lead them into pre-assigned environments: laser and gas rooms. Players must watch one another suffer as they negotiate through their respective challenge. The player must successfully avoid all strategically placed motional lasers in order to allow player 2 to proceed. The final section requires both players to cooperate and find missing codes for the other to enter within the time limit before being exposed to poisonous gas. 
@@ -46,7 +46,7 @@ Deliberate intentions to separate players lead them into pre-assigned environmen
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/4.jpg" alt="4" title="4" height="400"/>
 
-#####4.Emotion (Final Escape)
+##### 4.Emotion (Final Escape)
 最后的最后
 
 The final stage tests each player’s mental strength and determination to judge their willingness to sacrifice for one another as Eris announces that only one can survive. The final struggle is intensified when a wave of zombies is released, and the decision of life and death is to be made instinctively. The conclusion of this game of trials sees a final twist in the storyline. Who will be the one to survive? 
@@ -55,14 +55,14 @@ The final stage tests each player’s mental strength and determination to judge
 
 <img src="https://github.com/mincongzhang/CodeX_public/raw/master/5.jpg" alt="5" title="5" height="400"/>
 
-##Control:
+## Control:
 Code-X requires Samsung Gear VR and game pad controller. 
 
-##Mechanics:
+## Mechanics:
 
 The game tests each player’s ability to follow tasks, find clues and cooperate together in a new effective way to progress to the next level. There are twists and turns within the storyline in an attempt to take the players off course and lose hope. Both will require their mental agility to be able to fight off what’s around the corner. Failure for both players to survive will result in the termination of the game. All in all designed to make this game a thrilling and unique experience. 
 
-##Innovation:
+## Innovation:
 
 The game design is centred around real world Escape Room games, based upon attractive or popular themes. To escape, players will need to solve various puzzles. 
 
@@ -73,7 +73,7 @@ A few limitations in the real world scenarios (such as, cost, small range of loc
 
 
 
-##Getting started:
+## Getting started:
 
 
 
@@ -91,7 +91,7 @@ The functions of the game pad controller are illustrated below:
  
  <img src="https://github.com/mincongzhang/CodeX_public/raw/master/game_pad.png" alt="Server_UI" title="Server_UI" height="400"/>
 
-##Techniques:
+## Techniques:
 
 •	Photon Unity 3D Networking Frameworks SDKs to implement our multiplayer function.  
 
